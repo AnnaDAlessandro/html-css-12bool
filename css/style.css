@@ -1,0 +1,171 @@
+.container .row > div{
+    height: 80px;
+    background-color: gray;
+    border: 1px solid black;
+    width: 100%;
+}
+.container{
+    border: 4px dashed #160806;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+body{
+    background-color: black;
+}
+
+.row>div:nth-child(14),
+.row>div:nth-child(15),
+.row>div:nth-child(16),
+.row>div:nth-child(17),
+.row>div:nth-child(18),
+.row>div:nth-child(19),
+.row>div:nth-child(20),
+.row>div:nth-child(21),
+.row>div:nth-child(22),
+.row>div:nth-child(23){
+    background-color: black;
+}
+.row>div:nth-child(26),
+.row>div:nth-child(27),
+.row>div:nth-child(28),
+.row>div:nth-child(29),
+.row>div:nth-child(30),
+.row>div:nth-child(31),
+.row>div:nth-child(32),
+.row>div:nth-child(33),
+.row>div:nth-child(34),
+.row>div:nth-child(35){
+    background-color: black;
+}
+.row>div:nth-child(38),
+.row>div:nth-child(39),
+.row>div:nth-child(40),
+.row>div:nth-child(41),
+.row>div:nth-child(42),
+.row>div:nth-child(43),
+.row>div:nth-child(44),
+.row>div:nth-child(45),
+.row>div:nth-child(46),
+.row>div:nth-child(47)
+{
+    background-color: black;
+}
+
+.row>div:nth-child(50),
+.row>div:nth-child(52),
+.row>div:nth-child(53),
+.row>div:nth-child(57),
+.row>div:nth-child(59),
+.row>div:nth-child(58),
+.row>div:nth-child(62),
+.row>div:nth-child(65),
+.row>div:nth-child(66),
+.row>div:nth-child(67),
+.row>div:nth-child(69),
+.row>div:nth-child(70),
+.row>div:nth-child(71),
+.row>div:nth-child(74),
+.row>div:nth-child(75),
+.row>div:nth-child(77),
+.row>div:nth-child(78),
+.row>div:nth-child(79),
+.row>div:nth-child(80),
+.row>div:nth-child(81),
+.row>div:nth-child(83)
+
+{
+    background-color: black;
+}
+
+.row>div:nth-child(51),
+.row>div:nth-child(63),
+.row>div:nth-child(64),
+.row>div:nth-child(76)
+{
+    background-color: red;
+}
+.row>div:nth-child(54),
+.row>div:nth-child(55),
+.row>div:nth-child(56),
+.row>div:nth-child(68)
+{
+    background-color: green;
+}
+.row>div:nth-child(82),
+.row>div:nth-child(94),
+.row>div:nth-child(106)
+{
+    background-color: orange;
+}
+.row>div:nth-child(86),
+.row>div:nth-child(87),
+.row>div:nth-child(88),
+.row>div:nth-child(89),
+.row>div:nth-child(90),
+.row>div:nth-child(91),
+.row>div:nth-child(92),
+.row>div:nth-child(93),
+.row>div:nth-child(95),
+.row>div:nth-child(98),
+.row>div:nth-child(99),
+.row>div:nth-child(100),
+.row>div:nth-child(101),
+.row>div:nth-child(102),
+.row>div:nth-child(103),
+.row>div:nth-child(104),
+.row>div:nth-child(105),
+.row>div:nth-child(107),
+.row>div:nth-child(110),
+.row>div:nth-child(111),
+.row>div:nth-child(115),
+.row>div:nth-child(116),
+.row>div:nth-child(117),
+.row>div:nth-child(118),
+.row>div:nth-child(119)
+{
+    background-color: black;
+}
+.row>div:nth-child(112),
+.row>div:nth-child(113),
+.row>div:nth-child(114)
+{
+    background-color: aqua;
+}
+.row>div:nth-child(122),
+.row>div:nth-child(123),
+.row>div:nth-child(124),
+.row>div:nth-child(125),
+.row>div:nth-child(126),
+.row>div:nth-child(127),
+.row>div:nth-child(128),
+.row>div:nth-child(129),
+.row>div:nth-child(130),
+.row>div:nth-child(134),
+.row>div:nth-child(135),
+.row>div:nth-child(136),
+.row>div:nth-child(137),
+.row>div:nth-child(138),
+.row>div:nth-child(139),
+.row>div:nth-child(140),
+.row>div:nth-child(141),
+.row>div:nth-child(146),
+.row>div:nth-child(147),
+.row>div:nth-child(148),
+.row>div:nth-child(149),
+.row>div:nth-child(150),
+.row>div:nth-child(151),
+.row>div:nth-child(152),
+.row>div:nth-child(153)
+{
+    background-color: black;
+}
+
+.row>div:nth-child(131),
+.row>div:nth-child(142),
+.row>div:nth-child(143),
+.row>div:nth-child(154),
+.row>div:nth-child(155)
+{
+    background-color:fuchsia;
+}
+
